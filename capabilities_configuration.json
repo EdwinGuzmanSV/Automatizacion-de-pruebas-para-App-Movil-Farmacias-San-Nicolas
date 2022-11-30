@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "deviceName": "joyuse",
+  "automationName": "uiautomator2",
+  "appPackage": "com.farmaciasannicolas.controlrecetas",
+  "appActivity": ".MainActivity"
+}
